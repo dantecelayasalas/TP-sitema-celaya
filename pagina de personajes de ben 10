@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>personajes de ben 10</title>
+</head>
+<style>
+        body {
+            background-color:green ; 
+        	}
+    	</style>
+<body>
+	<h1 style="color:greenyellow;text-align:center;">persoanjes de ben 10</h1>
+	<h2 style="color:limegreen;text-align:center;">principales serie principal</h2>
+	<h3 style="text-align:center;">ben 10</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/ben 10 durisimo.jpg">
+	</div>
+	<p style="text-align: center;">ben 10 como el protagonista</p>
+	<h3 style="text-align:center;">gwen</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/gwen.png">
+	</div>
+	<p style="text-align: center;">como el personaje se cundario y clabe para algunas esenas</p>
+	<h3 style="text-align:center;">max</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/max.jpg">
+	</div>
+	<p style="text-align: center;"> </p>
+	<h2 style="color:limegreen;text-align:center;">principales fuerza alienigena y supremacia alienigena</h2>
+	<h3 style="text-align:center;">ben 10</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/ben 10 15 años.jpg">
+	</div>
+	<p style="text-align: center;"> </p>
+	<h3 style="text-align:center;">gwen</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/gwen 15 años.png">
+	</div>
+	<p style="text-align: center;"> </p>
+	<h3 style="text-align:center;">kevin</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/kevin.jpg">
+	</div>
+	<p style="text-align: center;"> </p>
+	<h2 style="color:limegreen;text-align:center;">principales omniverse</h2>
+	<h3 style="text-align:center;">ben 10</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/ben 10 16 años.jpg">
+	</div>
+	<p style="text-align: center;"> </p>
+	<h3 style="text-align:center;">rook</h3>
+	<div style="display: flex; justify-content: center;">
+		<img src="./imagenes/rook.jpg">
+	</div>
+	<p style="text-align: center;"> </p>
+</body>
+</html>
