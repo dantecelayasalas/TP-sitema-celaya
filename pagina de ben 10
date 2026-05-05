@@ -1,0 +1,41 @@
+</!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>pagina de ben 10</title>
+</head>
+ 	<style>
+        body {
+            background-color:green ; 
+        	}
+    	</style>
+	<body>
+		<h1 style="color:lightgreen;text-align: center;">pagina de ben 10</h1>
+		<div style="display: flex; justify-content: center;">
+    		<img src="./imagenes/ben 10.jpg">
+		</div>
+		<p>ben 10 es una saga de 3 sereies,3 contnuas y 1 rebot, 2 peliculas  peliculas live-action y un crosover.iremos viendo y explicando la series y un poco de la peliculas.</p>
+		<h2 style="text-align:center;">la serie original</h2>
+		<div style="display: flex; justify-content: center;">
+    		<img src="./imagenes/ben 10 serie original.jpg">
+		</div>
+		<p>es cuando ben 10 tiene 10 años y la trama trata de que benjamin tenison se va de biaje con su abuelo y su prima.</p>
+		<p>cuando le cayo el omitrix y se le pego a la muñeca ben se volvio un heroe y va deteniendo villanos por hay hasta que vino vilgax un alienigena muy fuerte que vino a tener el omitrix. y en ese momento se revelo la organisacion secreta lo plomeros, el abuelo max pertenece a ella.detienen a vilgax y esa fue la primera de las 4 temporadas</p>
+		<p>en las siguentes va desbloqueando alguienegenas y derrotando villanos.</p>
+		<p>algo de stacar que no mencione es kevin que fue un pequeño antagonista que afuturo sera inportante y que tambien guen su prima comenso a usar magia</p>
+		<h2 style="text-align:center;">ben 10 fuerza alienigena</h2>
+		<div style="display: flex; justify-content: center;">
+    		<img src="./imagenes/ben 10 fuerza alienigena.jpg">
+		</div>
+		<p>pasemos a la 2 serie que continua que hay despues de los susesos de la serie original ben 10 abandono el omitrix garaias a asmut</p>
+		<p>despues de que un DNAaliguen lo ataco,unos parasitos aliengenas controlados por los hybrid</p>
+		<div style="display: flex; justify-content: center;">
+    		<img src="./imagenes/dnaalguen.jpg" width="150" height="300">
+		</div>
+		<p>ben desidio volver a ponerse el omitrix que porsierto se acutualizo en harwer y softwer y perdio el catalogo original de alguien</p>
+		<p>fue a contactar a su prima para poder investigar y en la investigacion se encotraron con kevin traficando armas y para que no lo arresten decidio aliarse.despues de scubrieron un alto mando habrid que revelo que una gran flota se dirige a la tierra. asique ven decidio juntar la mayor cantidad de aliados posivles para la guerra haibrid.</p>
+		<p>algo peligroso de lo habrid es su fuerza mayor a la humana y que pueden infectar con parasitos habrid a la gente</p>
+
+	</body>
+</html>
